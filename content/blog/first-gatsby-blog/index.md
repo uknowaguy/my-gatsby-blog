@@ -7,7 +7,7 @@ You made it to my page, welcome!
 
 This is my first experience using Gatsby and Markdown. And I have to say, I'm enjoying my experience. The ease of use is very attractive, and I'm keeping my fingers crossed 🤞 that launching will be the same.
 
-Curios as to how I built this blog? You're in luck. [I've included the video I used to make it happen.](#abcd) The requirements are minimal and not a lot of programming experience is needed. 
+Curious as to how I built this blog? You're in luck. [I've included the video I used to make it happen.](#abcd) The requirements are minimal and not a lot of programming experience is needed. 
 
 Let's go over some basic requirements.
 - Desire to blog
