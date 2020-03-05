@@ -23,6 +23,7 @@ Of course, you'll need some tools on your computer to make your blog a reality. 
 **If you need more detailed instructions you can go to [Gatsby's Tutorials](https://www.gatsbyjs.org/tutorial/part-zero/) for help.** 
 
 Now, it's magic time! Let's... 
+
 Open a terminal (Open in vscode for ease of use)
   
 <Image
