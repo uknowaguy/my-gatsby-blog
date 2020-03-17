@@ -69,7 +69,7 @@ It's simple. Anyone can do it, but we shouldn't stop there. This should be the b
 - **The Elderly.** We all come from someone who came from someone. Let's not share this virus with them. Stay at home if you can. Follow the **FIVE STEPS**.
 - **Our country's infrastructure.** The ***Boomers*** of our country know how to fix and maintain our infrastructure. We need them healthy to continue passing down their knowledge.
 - **Flushing.** All the wipes and TP you felt the need to hoard *can* and *will* cause issues that no one wants to deal with. Unless you're a plumber or have plumbing tools, you're going to have a hard time fixing those clogged pipes. Throw your used wipes and tampons away. There's no need in making our situation worse.
-- **DYOR.** ***Do your own research.*** This means verifying the memes from your favorite social app before you share, unless it's funny. Maybe adding a good sense of humor will get us through tough times... keep those funny memes coming 😁.
+- **DYOR.** ***Do your own research.*** This means verifying the memes from your favorite social app before you share, unless it's funny. Maybe adding a good sense of humor will get us through the tough times... keep those funny memes coming 😁.
 - **Remain Calm.** Now is a great time to practice self-control and self-reliance. This is a major contributor to our current epidemic. As a society, we've been programmed to rely on others for our basic needs. How about taking advantage of this time and learn something new?
 
 ***Conclusion***
