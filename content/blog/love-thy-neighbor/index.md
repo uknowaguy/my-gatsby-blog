@@ -17,7 +17,7 @@ So what does it all mean and how should we react? Between the news and social me
 
 I knew it was serious when billion dollar corporations started shutting down their cash flow. And, of course, the [***Toilet Paper Apocalypse***](https://www.google.com/search?q=toilet+paper+apocalypse&rlz=1C1CHBF_enUS876US876&oq=toilet+paper+ap&aqs=chrome.1.69i57j0l7.5335j0j4&sourceid=chrome&ie=UTF-8). The shortage of toilet paper has set a new meaning to, "This 💩 just got real". 
 
-####Let's Get Real####
+####Lets Get Real####
 
 The coronavirus pandemic is our current reality and, before I go any further, I'd like to declare that I'm not a doctor, scientist, virologist, or any kind of specialist pertaining to the field of viruses; however, I am a part of the human race (I think 👽). 
 
