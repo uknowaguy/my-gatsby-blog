@@ -19,7 +19,7 @@ I knew it was serious when billion dollar corporations started shutting down the
 
 ####Let's Get Real####
 
-The coronavirus pandemic is our current reality, and, before I go any further, I'd like to declare that I'm not a doctor, scientist, virologist, or any kind of specialist pertaining to the field of viruses: however, I am a part of the human race (I think 👽). 
+The coronavirus pandemic is our current reality and, before I go any further, I'd like to declare that I'm not a doctor, scientist, virologist, or any kind of specialist pertaining to the field of viruses; however, I am a part of the human race (I think 👽). 
 
 In my search for the truth, I've come across several articles and videos which I believe are unbiased. I've included a link to one of these videos [here.](#abcd) 
 
@@ -53,7 +53,7 @@ Mark 12:28-31
 
 Now that you've received your annual sermon, I'll explain why this is important in our current pandemic. 
 
-You ask, "How can I love thy neighbor as myself in today's pandemic?" Glad you asked. Google listed a simple solution on their [home page](https://www.google.com/search?q=coronavirus+tips&fbx=dothefive). They're calling it, "DO THE FIVE." Within 5 steps, they've found the meaning of "***love thy neighbor***". 
+You ask, "How can I love thy neighbor as myself in today's pandemic?" Glad you asked. Google listed a simple solution on their [home page](https://www.google.com/search?q=coronavirus+tips&fbx=dothefive). They're calling it, "DO THE FIVE." Within 5 steps, they've found the meaning of ***"love thy neighbor"***. 
 
 ###DO THE FIVE
 
