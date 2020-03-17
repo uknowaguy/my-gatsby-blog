@@ -19,7 +19,7 @@ I knew it was serious when billion dollar corporations started shutting down the
 
 ####Lets Get Real####
 
-The coronavirus pandemic is our current reality and, before I go any further, I'd like to declare that I'm not a doctor, scientist, virologist, or any kind of specialist pertaining to the field of viruses; however, I am a part of the human race (I think 👽). 
+The coronavirus pandemic is our current reality, and, before I go any further, I'd like to declare that I'm not a doctor, scientist, virologist, or any kind of specialist pertaining to the field of viruses; however, I am a part of the human race (I think 👽). 
 
 In my search for the truth, I've come across several articles and videos which I believe are unbiased. I've included a link to one of these videos [here.](#abcd) 
 
