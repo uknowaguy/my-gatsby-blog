@@ -1,6 +1,6 @@
 ---
 title: My First Gatsby How to Blog
-date: "2020-03-01T22:12:03.284Z"
+date: "2020-03-02T22:12:03.284Z"
 description: "Gatsby Starter Blog"
 ---
 You made it to my page, welcome! 
