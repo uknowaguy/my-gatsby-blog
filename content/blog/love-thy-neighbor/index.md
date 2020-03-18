@@ -83,7 +83,7 @@ Namaste 🙏
 <a name="abcd">`youtube: https://www.youtube.com/watch?v=vww1nIIoqmw&feature=youtu.be&fbclid=IwAR0QBG9km9oSA-D34aoK3WLJKyZTe8MCGhePebF3R59XTFMeM3qVvJuxIv0`</a>
 
 
-![A picture I found on the internet](./connect.png)
+![A picture I found on the internet](./connect.svg)
 
 ```javascript
 let name = "uKnowAguy"
