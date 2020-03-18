@@ -25,6 +25,10 @@ In my search for the truth, I've come across several articles and videos which I
 
 The gentleman in the video has a series of 37 (maybe more by now) different updates and breaking discoveries on coronavirus. His videos come from a scientific perspective with lessons on how things work. It is my opinion that we need more information like his and less biased news. 
 
+<Image
+  src='./neighborDispute.PNG'
+/>
+
 ####For the Sake of Humanity####
 
 I'm not big on religion, as I believe it is created by man. Nonetheless, that does not mean religion lacks knowledge and wisdom in their literature. One of my favorite verses comes from the Bible. To be specific, ***Mark Chapter 12 Verse 31***. 
