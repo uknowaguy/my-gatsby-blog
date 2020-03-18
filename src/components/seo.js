@@ -28,7 +28,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const ogImageUrl = data.site.siteMetadata.siteUrl + ( image || defaultOpenGraphImage )
+  const ogImageUrl = site.siteMetadata.siteUrl + ( image || defaultOpenGraphImage )
 
   return (
     <Helmet
