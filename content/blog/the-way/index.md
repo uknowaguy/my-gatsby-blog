@@ -1,6 +1,6 @@
 ---
 title: Tao Te Ching
-date: "2020-02-04T22:12:03.284Z"
+date: "2020-01-04T22:12:03.284Z"
 description: "The way"
 ---
 **Written by: Lao Tzu** |
