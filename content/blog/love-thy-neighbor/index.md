@@ -2,6 +2,7 @@
 title: Think of Others
 date: "2020-03-17T22:12:03.284Z"
 description: "Love Thy Neighbor"
+ogimage: './opengraph-default.png'
 ---
 ## Love Thy Neighbor
 
