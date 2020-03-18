@@ -9,9 +9,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import defaultOpenGraphImage from '../../content/assets/opengraph-default.png'
 
-const SEO = ({ description, lang, meta, title, image }) => {
+
+const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,8 +19,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
           siteMetadata {
             title
             description
-            social { twitter }
-            siteUrl
+            social { twitter }           
           }
         }
       }
@@ -28,8 +27,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const ogImageUrl = site.siteMetadata.siteUrl + ( image || defaultOpenGraphImage )
-
+  
   return (
     <Helmet
       htmlAttributes={{
@@ -50,20 +48,6 @@ const SEO = ({ description, lang, meta, title, image }) => {
           property: `og:description`,
           content: metaDescription,
         },
-          // added from https://juliangaramendy.dev/custom-open-graph-images-in-gatsby-blog/
-        {
-          property: `og:image`,
-          content: ogImageUrl,
-        },
-        {
-          property: `twitter:image`,
-          content: ogImageUrl,
-        },
-        {
-          property: `image`,
-          content: ogImageUrl,
-        },
-          // end of added from https://juliangaramendy.dev/custom-open-graph-images-in-gatsby-blog/
         {
           property: `og:type`,
           content: `website`,
