@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `u Know a Guy`,
     author: {
-      name: `Ben McKeithen. `,
+      name: `William McKeithen`,
       summary: `A student of all things intriguing. `,
     },
     description: `Ben Been Blogging`,
