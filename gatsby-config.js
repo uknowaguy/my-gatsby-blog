@@ -5,7 +5,7 @@ module.exports = {
       name: `William McKeithen`,
       summary: `A student of all things intriguing. `,
     },
-    description: `William McKeithen, Blog, Tao te Ching, Covid-19, Fizz Buzz`,
+    description: `William McKeithen, Blog, Random, Tao te Ching, Covid-19, Fizz Buzz`,
     siteUrl: `https://www.uknowaguy.com/`,
     social: {
       twitter: `uknowaguydotcom`,
