@@ -19,4 +19,7 @@ Mind Blown 🤯
 I'm leaving this Blog short and sweet, because I'm not 100% sure that what I did will 
 make me pop-up first when my name is searched, but my fingers are crossed. 
 
+![A picture I found on the internet](./connect.svg)
+
+
 
