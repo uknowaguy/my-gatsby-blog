@@ -1,13 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `u Know a Guy`,
+    title: `William McKeithen & Random Blogs`,
     author: {
       name: `William McKeithen`,
       summary: `A student of all things intriguing. `,
     },
-    description: `Ben Been Blogging`,
+    description: `William McKeithen, Blog, Random, Tao te Ching, Covid-19, Fizz Buzz`,
     siteUrl: `https://www.uknowaguy.com/`,
-    //siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `uknowaguydotcom`,
     },

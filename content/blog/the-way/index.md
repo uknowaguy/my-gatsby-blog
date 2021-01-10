@@ -4,7 +4,7 @@ date: "2020-01-04T22:12:03.284Z"
 description: "The way"
 ---
 **Written by: Lao Tzu** |
-**Translated by: Stephen Mitchell | Shared by: Ben McKeithen**
+**Translated by: Stephen Mitchell | Shared by: William McKeithen**
 
 ###1
 
