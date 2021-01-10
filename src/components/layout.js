@@ -63,7 +63,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, uKnowAguy 
         {` `}
-        <a href="https://twitter.com/uknowaguydotcom">Built with ❤</a>
+        <a href="https://twitter.com/uknowaguydotcom">Made In USA ❤️🤍💙</a>
       </footer>
     </div>
   )
