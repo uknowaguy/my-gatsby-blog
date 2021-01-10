@@ -40,13 +40,12 @@ perfect, but my Brain Matters. My thoughts and your thoughts matter.
 Kinda funny how today is called, the present. Todays a gift and guess what? Chicken Butt ... JK ... Todays perfect. Yours and mines imperfections
 are what makes us Perfectly Relateable. That is why we follow each other. Comfort from others Comforts us.
 
-*** Perfect Imperfections Trumps Faked Perfect Images ***
+*** Perfect Imperfections ***
 
 Before I sail the 7 seas and depart, I will leave y'all with this...
 
 # You Keep America Great
-## Knot The Presidents
-### Jus U B N Present
+
 
 What can you do to make YOU better? Do it.
 
