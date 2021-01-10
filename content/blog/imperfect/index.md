@@ -57,7 +57,5 @@ What can you do to make YOU better? Do it.
 ![A picture I found on the internet](./connect.svg)
 
 ```javascript
-
 let name = "Who Is Afraid Of What And Why?"
-
 ```
